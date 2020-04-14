@@ -6,6 +6,7 @@ Funcionalidade: Google Keep
 Contexto:
 	Dado que eu aciono o Primeiros passos
 
+@Cenario1
 Cenario: Criar uma nota
 	Quando eu acionar o botao Nova nota
 	E eu informar no campo titulo "Nota1"
